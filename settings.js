@@ -53,7 +53,7 @@ $(document).ready(function() {
 	deviantart = false;
 
 	// Focus on searchbox when opening
-	focusSearch = false;
+	focusSearch = true;
 
 	// Enable clock
 	showClock = true;

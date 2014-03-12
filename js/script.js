@@ -123,10 +123,10 @@ $(document).ready(function() {
 
 	/*  Animation Time!  *\
 	\*===================*/
-	
+
 	/*  Hide lists  *\
 	\*==============*/
-	$('ul').slideUp();
+/*	$('ul').slideUp();
 
 	/*  Show on hover  *\
 	\*=================*/
