@@ -130,13 +130,13 @@ $(document).ready(function() {
 
 	/*  Show on hover  *\
 	\*=================*/
-	$('.block').mouseenter(function() {
+/*	$('.block').mouseenter(function() {
 		$('ul', this).slideDown();
 	});
 
 	/*  Hide on unhover  *\
 	\*===================*/
-	$('.block').mouseleave(function() {
+/*	$('.block').mouseleave(function() {
 		$('ul', this).slideUp();
 	});
 
