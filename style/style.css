@@ -33,7 +33,7 @@
 body {
 	background: #151515;										/* Page background */
 	color: #999;														/* Font color */
-	padding: 150px;													/* Padding between link blocks and edge */
+	padding: 100px;													/* Padding between link blocks and edge */
 	font-family: "Museo", "Helvetica Neue", sans-serif;	/* Font */
 	text-shadow: rgba(0,0,0,0.6) 1px 1px 0; /* Text Shadow */
 }
@@ -51,7 +51,7 @@ a:hover {
 .block {
 	border-left: 1px solid #999;						/* Left border of link block */
 	float: left;
-	padding: 1em;														/* Padding around link block */
+	padding: .25em;														/* Padding around link block */
 	width: 140px;														/* Link block width */
 }
 
