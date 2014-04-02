@@ -40,7 +40,7 @@ $(document).ready(function() {
 */
 
 	// Open in new window_tab
-	newwindow = true;
+	newwindow = false;
 
 	// Enable/disable various search engines
 	google = true;
